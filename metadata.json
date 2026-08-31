@@ -1,0 +1,6 @@
+{
+  "name": "Aegis All-in-One Stealth Browser",
+  "description": "Peramban web all-in-one dengan multi-proxy relay, kustomisasi User-Agent (iOS, Android, Linux, Windows), deteksi phishing cerdas, pengunduh media video, enkripsi lokal end-to-end, dan sistem donasi QRIS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
